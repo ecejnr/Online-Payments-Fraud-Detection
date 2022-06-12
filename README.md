@@ -34,9 +34,8 @@ newbalanceOrig - new balance after the transaction
 
 nameDest - customer who is the recipient of the transaction
 
-oldbalanceDest - initial balance recipient before the transaction. Note that there is not information for customers that start with M (Merchants).
-
-newbalanceDest - new balance recipient after the transaction. Note that there is not information for customers that start with M (Merchants).
+oldbalanceDest - initial balance recipient before the transaction. 
+newbalanceDest - new balance recipient after the transaction. 
 
 isFraud - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
 

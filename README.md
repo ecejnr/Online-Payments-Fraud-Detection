@@ -35,9 +35,10 @@ newbalanceOrig - new balance after the transaction
 nameDest - customer who is the recipient of the transaction
 
 oldbalanceDest - initial balance recipient before the transaction. 
+
 newbalanceDest - new balance recipient after the transaction. 
 
-isFraud - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
+isFraud - Tells which transaction is Fraud and which is not, denoted by 1 and 0.
 
 STEPS TAKEN TO COMPLETE THIS PROJECT:
 - importing the python library packages
